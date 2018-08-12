@@ -10,6 +10,7 @@
 <body>
 <form action="addcon.php">
 我是git2里面的
+我是git1修改的
     name: <input type="text" name="name"><br>
     age: <input type="text" name="age"><br>
     sex: <input type="text" name="sex"><br>
